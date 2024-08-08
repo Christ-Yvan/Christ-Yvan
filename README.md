@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Neutron-Harper.Neutron-Harper" />
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
+<br/>
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Neutron-Harper.Neutron-Harper" /> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+C+Y!;" /> 
