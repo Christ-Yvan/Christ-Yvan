@@ -1,7 +1,46 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Neutron-Harper.Neutron-Harper" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+C+Y!;" /> 
+</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" /> 
+</h1>
+
+<h3 align="center">A passionate software Engineer from Central Africa🌍</h3>
+<br/>
+<div align="center">
+  
+  🤜🏿 I'm currently working on **a web game**
+  
+  💡  I'm currently learning **content creation, React & React Native**
+  
+  ⚡ Fun fact **I am a prince in my home country and I have chosen to live my life according to my beliefs**
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/christ-yvan-kemajou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href="https://www.freecodecamp.org/Christ_Harper" target="_blank">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23160.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"  /> 
+  </a>
+  
+</div>
+
+<hr />
+
+<h2 align="center"> 💻 Languages-Frameworks-Tools 💻 </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,python,javascript,react,html,css,vscode,linkedin,pr" />
+    
+  </a>
+</div>
 
 <!--
-**Christ-Yvan/Christ-Yvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neutron-Harper/Neutron-Harper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
