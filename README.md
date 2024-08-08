@@ -1,4 +1,4 @@
-![MasterHead](https://s7.ezgif.com/tmp/ezgif-7-ed69a00102.gif)
+![MasterHead](https://s4.ezgif.com/tmp/ezgif-4-3773c31b77.gif)
 <br/>
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Neutron-Harper.Neutron-Harper" /> -->
 
