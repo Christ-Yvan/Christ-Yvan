@@ -4,7 +4,7 @@
 
 ![MasterHead](https://i.imghippo.com/files/IMskk1723151867.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+C+Y!;+I'm+a+problem+solver" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Christ+Code!;+I'm+a+problem+solver" /> 
 </h1>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" /> 
