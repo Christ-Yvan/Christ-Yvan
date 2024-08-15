@@ -47,8 +47,8 @@
 <h2 align="center"> 🚀  My contributions  🚀 </h2>
 <br/>
 <div align="center">
-    <img src="" />
-</div>
+   <!-- <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>-->
 
 <hr />
 <h2 align="center"> ⭐ Stats ⭐ </h2>
