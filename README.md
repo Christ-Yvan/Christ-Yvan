@@ -45,8 +45,8 @@
 <hr/>
 
 <h2 align="center"> 🚀  My contributions  🚀 </h2>
-<br/>
 <div align="center">
+  
   ![Snake animation](https://github.com/Christ-Yvan/Christ-Yvan/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 </div>
 
