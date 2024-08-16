@@ -20,16 +20,18 @@
 </div>
 
 <div align="center">
+   <a href="https://www.freecodecamp.org/Christ_Yvan" target="_blank">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23160.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"  /> 
+  </a>
+   <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   <a href="https://linkedin.com/in/christ-yvan-kemajou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
-  <a href="https://www.freecodecamp.org/Christ_Yvan" target="_blank">
-    <img src="https://img.shields.io/badge/Freecodecamp-%23160.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"  /> 
   </a>
   <a href="https://youtube.com/@Christyvancode?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
 </a>
-<!--   https://www.youtube.com/channel/UCUt4TCUUyD_I4axhgIF0fcg -->
 
  
 </div>
