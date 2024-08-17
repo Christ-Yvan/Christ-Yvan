@@ -12,11 +12,11 @@
 <br/>
 <div align="center">
   
-  🤜🏿 I'm currently working on **a web game**
+  🤜🏿 I'm currently working on **a web game**.
   
-  💡  I'm currently learning **content creation, React & React Native**
+  💡  I'm currently learning **content creation, React & React Native**.
   
-  ⚡ Fun fact **I am a prince in my home country and I have chosen to live my life according to my beliefs**
+  ⚡ Fun fact **I am a prince in my home country and I have chosen to live my life according to my beliefs**.
 </div>
 
 <div align="center">
