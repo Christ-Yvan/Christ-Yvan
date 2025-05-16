@@ -59,7 +59,7 @@
 
 <hr />
 <h2 align="center"> 📊 Stats 📊 </h2>
-<div align="center">
+<di align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christ-Yvan&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/Christ-Yvan/github-readme-stats)
   
