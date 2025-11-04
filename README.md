@@ -12,9 +12,9 @@
 <br/>
 <div align="center">
   
-  🤜🏿 I'm currently working on **a web game**.
+  🤜🏿 I'm currently working on **a web platform**.
   
-  💡  I'm currently learning **content creation, React & React Native**.
+  💡  I'm currently learning **content creation && Software Engeneering**.
   
   ⚡ Fun fact **I am a prince in my home country and I have chosen to live my life according to my beliefs**.
 </div>
