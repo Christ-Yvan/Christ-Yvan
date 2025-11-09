@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   
-  🤜🏿 I'm currently working on **a web platform**.
+  🤜🏿 I'm currently working on **a web platform and game**.
   
   💡  I'm currently learning **content creation && Software Engeneering**.
   
