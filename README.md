@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Bienvenue%20sur%20mon%20profil&fontAlign=50&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20my%20profile&fontAlign=50&fontAlignY=35" alt="header" />
 </p>
 <!--![MasterHead](https://i.imghippo.com/files/IMskk1723151867.gif)-->
 <h3 align="center">
