@@ -53,16 +53,16 @@
 
 <h2 align="center"> 🚀  My contributions  🚀 </h2>
 <div align="center">
-  
-  ![Snake animation](https://github.com/Christ-Yvan/Christ-Yvan/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
-</div>
 
+![Snake animation](https://raw.githubusercontent.com/Christ-Yvan/Christ-Yvan/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+
+</div>
 <hr />
 <h2 align="center"> 📊 Stats 📊 </h2>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christ-Yvan&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/Christ-Yvan/github-readme-stats)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christ-Yvan&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/Christ-Yvan/github-readme-stats)
+
 </div>
 
 
