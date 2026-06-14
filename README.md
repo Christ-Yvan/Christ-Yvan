@@ -2,6 +2,7 @@
 
 <br/>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Bienvenue%20sur%20mon%20profil&fontAlign=50&fontAlignY=35)
 <!--![MasterHead](https://i.imghippo.com/files/IMskk1723151867.gif)-->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=90&duration=4000&lines=Hi+There!;+I'm+Christ+Code!;+I'm+a+problem+solver" /> 
