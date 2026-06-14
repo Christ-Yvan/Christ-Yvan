@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀  My contributions  🚀 </h2>
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Christ-Yvan/Christ-Yvan/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Christ-Yvan/Christ-Yvan/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)[![GitHub Streak](https://streak-stats.demolab.com/?user=Christ-Yvan&theme=merko&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 <hr />
