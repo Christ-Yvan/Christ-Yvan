@@ -54,7 +54,7 @@
 <h2 align="center"> 🚀  My contributions  🚀 </h2>
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Christ-Yvan/Christ-Yvan/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Christ-Yvan/Christ-Yvan/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)[![Christ-Yvan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christ-Yvan&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <hr />
